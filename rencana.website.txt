@@ -2,7 +2,7 @@ RENCANA PEMBUATAN WEBSITE
 
 - Design Website Sepatukita.com
 * Di upload ke dribbble dan ke BWA
-* Design lagi dan lagi
-------------------------------------------
 > Aplikasi sederhana dalam kehidupan sehari
-
+- Implementasi Full Stack Developer
+* Melanjutkan Sepatukita.com
+* Aplikasi Sederhan Covid-19
