@@ -3,3 +3,4 @@ RESOLUSI 2021
 - Membuat APK Dasboard ADMIN Menggunakan MVC & CI/Laravael.
 - Menjadi WEB DEVELOPER.
 - Upload Design di Dribbble.com
+- Mengikuti Pelatihan DTS KOMINFO
