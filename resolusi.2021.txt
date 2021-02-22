@@ -1,6 +1,5 @@
 RESOLUSI 2021
 - Membuat Web Design Open Source.
 - Membuat APK Dasboard ADMIN Menggunakan MVC & CI/Laravael.
-- Membuat Website 100%.
 - Menjadi WEB DEVELOPER.
 - Upload Design di Dribbble.com
