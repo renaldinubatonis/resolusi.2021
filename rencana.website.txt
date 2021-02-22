@@ -4,3 +4,4 @@ RENCANA PEMBUATAN WEBSITE
 * Di upload ke dribbble dan ke BWA
 - Implementasi Full Stack Developer
 * Melanjutkan Sepatukita.com
+* Aplikasi Sederhan Covid-19
